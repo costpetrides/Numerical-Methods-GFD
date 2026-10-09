@@ -1,1 +1,1 @@
-# NKUA master course Numerical Methods – Applications to Geophysical Fluids
+#  Numerical Methods – Applications to GFD
