@@ -2,4 +2,3 @@
 
 ## Content
 1. Introduction to Python
-2. 
